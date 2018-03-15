@@ -1,17 +1,17 @@
 # ChickenCheep
 An old game I created with Pygame
 
-#Original README:
+# Original README:
 I have no idea why people make README text documents, but sometimes I read them, because I hope they can tell me something useful. 
 
 I wish that people would actually write the file instead of pasting a wall of text to on single line...
 
 Well, here's the README file for Chicken Cheep.
 
-===============================================
+
 	Made by MaxwellSalmon
 	Music by White Linctus
-===============================================
+
 This game has some bugs that I haven't fixed.
 Here's a list:
 
